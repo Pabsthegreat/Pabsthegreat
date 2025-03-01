@@ -8,7 +8,7 @@ I am a student at PES University, Bengaluru, India. I am currently pursuing my B
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [adarsh11018@gmail.com](mailto:adarsh11018@gmail.com)
-* 🧠  I'm learning Web Development
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Fun Projects
 
 ### Skills
